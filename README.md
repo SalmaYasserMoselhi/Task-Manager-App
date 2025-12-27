@@ -5,3 +5,6 @@ A simple task manager application
 - Add Task
 - Delete Task
 - Track Progress
+
+## Version
+v1-test
